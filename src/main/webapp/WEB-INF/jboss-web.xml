@@ -1,7 +1,7 @@
 <jboss-web>
-    <env-entry>
-        <env-entry-name>DD_VERSION</env-entry-name>
-        <env-entry-type>java.lang.String</env-entry-type>
-        <env-entry-value>0.0.19</env-entry-value>
-    </env-entry>
+<!--    <env-entry>-->
+<!--        <env-entry-name>DD_VERSION</env-entry-name>-->
+<!--        <env-entry-type>java.lang.String</env-entry-type>-->
+<!--        <env-entry-value>0.0.19</env-entry-value>-->
+<!--    </env-entry>-->
 </jboss-web>
