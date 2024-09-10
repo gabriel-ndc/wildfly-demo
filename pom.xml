@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.ndc</groupId>
 	<artifactId>wildfly-demo</artifactId>
-	<version>0.0.21</version>
+	<version>0.0.22</version>
 	<packaging>war</packaging>
 	<name>wildfly-demo</name>
 	<description>Demo project for Spring Boot</description>
